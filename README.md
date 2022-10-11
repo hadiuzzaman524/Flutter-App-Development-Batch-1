@@ -20,6 +20,8 @@
 * [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
 * [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
 * [Material Design Color System](https://material.io/design/color/the-color-system.html)
+* [CircleAvater Widget Documentation](#)
+* [Text Widget Widget Document](#)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
@@ -34,7 +36,7 @@
 
 ## Section 5: BMI Calculator - How to Build Beautiful UIs with Flutter Widgets
 
-* [Dribbble: Find Designers and Design inspiration]([https://dribbble.com/](https://dribbble.com/shots/18639003-BMI-Calculator)
+* [Dribbble: Find Designers and Design inspiration](https://dribbble.com/](https://dribbble.com/shots/18639003-BMI-Calculator)
 * [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
@@ -54,31 +56,28 @@
 * [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
 * [BMI Calculator Completed Project](#)
 
+
 ## Section 6: ToDo List Flutter State Management
 
-* [ToDo List](#)
-* [Dart Language Tour: Final and Const](https://www.dartlang.org/guides/language/language-tour#final-and-const)
-* [Flutter State Management at Google I/O 2019](https://youtu.be/d_m5csmrf7I)
-* [The Provider Package](https://pub.dev/packages/provider)
-* [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
-* [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
+* [Dart Language Tour](#)
+* [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [WidgetBuilder function](https://api.flutter.dev/flutter/widgets/WidgetBuilder.html)
 * [The ListView Class](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+* [The Provider Package](https://pub.dev/packages/provider)
+* [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
+* [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
 * [FloatingActionButton Class](https://docs.flutter.io/flutter/material/FloatingActionButton-class.html)
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline)
 * [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
-* [ToDo List Completed Project](https://github.com/londonappbrewery/todoey-flutter)
+* [ToDo List Completed Project](#)
 
 
 ## Section 7: Quiz App - Using Flutter and Dart Packages to Speed Up Development
 
-* [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
-* [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
-* [Run code snippets on DartPad](https://dartpad.dartlang.org/)
+* [CheckBox Documentation](#)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
-* [Quize App Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 * [Download fancy fonts from fonts.google.com](https://fonts.google.com/)
 * [How to add fonts to the pubspec.yaml file](https://flutter.dev/docs/cookbook/design/package-fonts)
 * [Custom font using google_fonts package](https://pub.dev/packages/google_fonts)
@@ -86,8 +85,8 @@
 
 ## Section 8: Weather App - Powering Your Flutter App with Live Weather Web Data
  
+* [Dart Asyncronous Programming](#)
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
-* [Starter Code Snippet for Async Await Demo](https://gist.github.com/angelabauer/c19c42b7795a185d2113f3b47263d2c0)
 * [OpenWeatherMap APIs](https://openweathermap.org/api)
 * [Fetching Data from the Internet](https://flutter.dev/docs/cookbook/networking/fetch-data)
 * [The Dart http package](https://pub.dartlang.org/packages/http)
@@ -126,26 +125,4 @@
 * [ListView Class Documentation](https://docs.flutter.io/flutter/widgets/ListView-class.html)
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
 * [ Group Chat App Complete Project](#)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
