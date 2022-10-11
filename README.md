@@ -23,6 +23,7 @@
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
+* [Column Documentation](https://docs.flutter.io/flutter/widgets/Column-class.html)
 * [Generating App Icons with AppIcon.co](https://appicon.co/)
 
 
@@ -31,13 +32,12 @@
 * [Run app on android phone](https://developer.android.com/studio/run/device)
 
 
-
 ## Section 5: BMI Calculator - How to Build Beautiful UIs with Flutter Widgets
 
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
-* [Column Documentation](https://docs.flutter.io/flutter/widgets/Column-class.html)
 * [Row Documentation](https://docs.flutter.io/flutter/widgets/Row-class.html)
+* [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
 * [Tomek's Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 * [Download fancy fonts from fonts.google.com](https://fonts.google.com/)
 * [How to add fonts to the pubspec.yaml file](https://flutter.dev/docs/cookbook/design/package-fonts)
@@ -51,7 +51,12 @@
 * [BMI Calculator Completed Project](#)
 
 ## Section 6: Quiz App - Using Flutter and Dart Packages to Speed Up Development
-
+* [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
+* [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
+* [Run code snippets on DartPad](https://dartpad.dartlang.org/)
+* [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
+* [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
+* [Quize App Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
 ## Section 14: ToDo List Flutter State Management
 
@@ -64,29 +69,6 @@
 * [The Provider Package](https://pub.dev/packages/provider)
 * [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
 * [ToDo List Completed Project](https://github.com/londonappbrewery/todoey-flutter)
-
-
-## Section 7: Number guessing - Building Apps with State
-
-* [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
-* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
-* [RaisedButton, TextButton, etc Documentation](https://docs.flutter.dev/release/breaking-changes/buttons)
-* [Run code snippets on DartPad](https://dartpad.dartlang.org/)
-* [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
-* [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
-* [Number guessing Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
-
-## Section 8: Challenge for you
-
-
-## Section 9: Quize App - Modularising & Organising Flutter Code
-
-* [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
-* [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
-* [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
-* [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
-* [Quize App Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
-
 
 
 ## Section 11: BMI Calculator - Building Flutter UIs for Intermediates
