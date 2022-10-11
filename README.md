@@ -31,23 +31,42 @@
 
 * [Run app on android phone](https://developer.android.com/studio/run/device)
 
+## Section 14: ToDo List Flutter State Management
+
+* [ToDo List](#)
+* [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
+* [Dart Language Tour: Final and Const](https://www.dartlang.org/guides/language/language-tour#final-and-const)
+* [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
+* [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
+* [WidgetBuilder function](https://api.flutter.dev/flutter/widgets/WidgetBuilder.html)
+* [The ListView Class](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+* [Flutter State Management at Google I/O 2019](https://youtu.be/d_m5csmrf7I)
+* [The Provider Package](https://pub.dev/packages/provider)
+* [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
+* [ToDo List Completed Project](https://github.com/londonappbrewery/todoey-flutter)
+* [FloatingActionButton Class](https://docs.flutter.io/flutter/material/FloatingActionButton-class.html)
 
 ## Section 5: BMI Calculator - How to Build Beautiful UIs with Flutter Widgets
 
+* [Dribbble: Find Designers and Design inspiration]([https://dribbble.com/](https://dribbble.com/shots/18639003-BMI-Calculator))
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
 * [Row Documentation](https://docs.flutter.io/flutter/widgets/Row-class.html)
 * [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
 * [Tomek's Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
-* [Download fancy fonts from fonts.google.com](https://fonts.google.com/)
-* [How to add fonts to the pubspec.yaml file](https://flutter.dev/docs/cookbook/design/package-fonts)
-* [Custom font using google_fonts package](https://pub.dev/packages/google_fonts)
 * [The Icons Class](https://docs.flutter.io/flutter/material/Icons-class.html)
+* [Find Color HEX codes easily with the Colorzilla plugin](http://www.colorzilla.com/)
+* [The Color Class](https://docs.flutter.io/flutter/dart-ui/Color-class.html)
+* [How do HEX codes for with colours?](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline)
 * [Card Class Documentation](https://docs.flutter.io/flutter/material/Card-class.html)
 * [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
+* [Navigating between Screens on Flutter](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
+* [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
+* [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
+* [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
 * [BMI Calculator Completed Project](#)
 
 ## Section 6: Quiz App - Using Flutter and Dart Packages to Speed Up Development
@@ -57,42 +76,10 @@
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
 * [Quize App Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Download fancy fonts from fonts.google.com](https://fonts.google.com/)
+* [How to add fonts to the pubspec.yaml file](https://flutter.dev/docs/cookbook/design/package-fonts)
+* [Custom font using google_fonts package](https://pub.dev/packages/google_fonts)
 
-## Section 14: ToDo List Flutter State Management
-
-* [ToDo List](#)
-* [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
-* [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
-* [WidgetBuilder function](https://api.flutter.dev/flutter/widgets/WidgetBuilder.html)
-* [The ListView Class](https://api.flutter.dev/flutter/widgets/ListView-class.html)
-* [Flutter State Management at Google I/O 2019](https://youtu.be/d_m5csmrf7I)
-* [The Provider Package](https://pub.dev/packages/provider)
-* [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
-* [ToDo List Completed Project](https://github.com/londonappbrewery/todoey-flutter)
-
-
-## Section 11: BMI Calculator - Building Flutter UIs for Intermediates
-
-* [Dribbble: Find Designers and Design inspiration]([https://dribbble.com/](https://dribbble.com/shots/18639003-BMI-Calculator))
-* [Ruben Vaalt's beautiful BMI Calculator Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
-* [Using Themes](https://flutter.dev/docs/cookbook/design/themes)
-* [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
-* [ThemeData Class](https://api.flutter.dev//flutter/material/ThemeData-class.html)
-* [Find Color HEX codes easily with the Colorzilla plugin](http://www.colorzilla.com/)
-* [The Color Class](https://docs.flutter.io/flutter/dart-ui/Color-class.html)
-* [How do HEX codes for with colours?](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
-* [The Key Class](https://docs.flutter.io/flutter/foundation/Key-class.html)
-* [When to Use Keys - Flutter Widgets 101 Ep. 4](https://www.youtube.com/watch?v=kn0EOS-ZiIc)
-* [Dart Language Tour: Final and Const](https://www.dartlang.org/guides/language/language-tour#final-and-const)
-* [Font Awesome Flutter Package](https://pub.dartlang.org/packages/font_awesome_flutter)
-* [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
-* [Slider Class](https://docs.flutter.io/flutter/material/Slider-class.html)
-* [FloatingActionButton Class](https://docs.flutter.io/flutter/material/FloatingActionButton-class.html)
-* [ShapeBorder Class](https://docs.flutter.io/flutter/painting/ShapeBorder-class.html)
-* [Navigating between Screens on Flutter](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
-* [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
-* [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
-* [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
 
 ## Section 12: Weather App - Powering Your Flutter App with Live Weather Web Data
  
