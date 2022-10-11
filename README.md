@@ -30,16 +30,9 @@
 
 * [Run app on android phone](https://developer.android.com/studio/run/device)
 
-## Section 5: Music app - Using Flutter and Dart Packages to Speed Up Development
-
-* [Flutter Packages](https://pub.dartlang.org/flutter)
-* [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
-* [Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
-* [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
-* [Music app Completed Project](#)
 
 
-## Section 6: XXXX - How to Build Beautiful UIs with Flutter Widgets
+## Section 5: XXXX - How to Build Beautiful UIs with Flutter Widgets
 
 * [XXXX](#)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
@@ -57,6 +50,14 @@
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
 * [XXXX Completed Project](https://github.com/londonappbrewery/MiCard-Completed)
+
+## Section 6: Music app - Using Flutter and Dart Packages to Speed Up Development
+
+* [Flutter Packages](https://pub.dartlang.org/flutter)
+* [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
+* [Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
+* [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
+* [Music app Completed Project](#)
 
 ## Section 7: Number guessing - Building Apps with State
 
