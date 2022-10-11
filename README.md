@@ -24,13 +24,19 @@
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
 * [Generating App Icons with AppIcon.co](https://appicon.co/)
-* [Setup app icon](#)
+
 
 ## Section 4: Running Your App on a Physical Device
 
-* [Run app on android phone](#)
+* [Run app on android phone](https://developer.android.com/studio/run/device)
 
-## Section 5: Challenge for you
+## Section 5: Music app - Using Flutter and Dart Packages to Speed Up Development
+
+* [Flutter Packages](https://pub.dartlang.org/flutter)
+* [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
+* [Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
+* [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
+* [Music app Completed Project](#)
 
 
 ## Section 6: XXXX - How to Build Beautiful UIs with Flutter Widgets
@@ -43,6 +49,7 @@
 * [Tomek's Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 * [Download fancy fonts from fonts.google.com](https://fonts.google.com/)
 * [How to add fonts to the pubspec.yaml file](https://flutter.dev/docs/cookbook/design/package-fonts)
+* [Custom font using google_fonts package](https://pub.dev/packages/google_fonts)
 * [The Icons Class](https://docs.flutter.io/flutter/material/Icons-class.html)
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline)
 * [Card Class Documentation](https://docs.flutter.io/flutter/material/Card-class.html)
@@ -55,7 +62,7 @@
 
 * [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
-* [Raised Button Documentation](#)
+* [RaisedButton, TextButton, etc Documentation](https://docs.flutter.dev/release/breaking-changes/buttons)
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
 * [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
@@ -64,15 +71,7 @@
 ## Section 8: Challenge for you
 
 
-## Section 9: Music app - Using Flutter and Dart Packages to Speed Up Development
-
-* [Flutter Packages](https://pub.dartlang.org/flutter)
-* [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
-* [Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
-* [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
-* [Music app Completed Project](#)
-
-## Section 10: Quize App - Modularising & Organising Flutter Code
+## Section 9: Quize App - Modularising & Organising Flutter Code
 
 * [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
@@ -80,10 +79,10 @@
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
 * [Quize App Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
-## Section 11: Color guessing Challenge
+## Section 10: Color guessing Challenge
 
 
-## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
+## Section 11: BMI Calculator - Building Flutter UIs for Intermediates
 
 * [Dribbble: Find Designers and Design inspiration]([https://dribbble.com/](https://dribbble.com/shots/18639003-BMI-Calculator))
 * [Ruben Vaalt's beautiful BMI Calculator Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
@@ -106,7 +105,7 @@
 * [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
 * [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
 
-## Section 13: Weather App - Powering Your Flutter App with Live Weather Web Data
+## Section 12: Weather App - Powering Your Flutter App with Live Weather Web Data
  
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
 * [Starter Code Snippet for Async Await Demo](https://gist.github.com/angelabauer/c19c42b7795a185d2113f3b47263d2c0)
@@ -125,9 +124,9 @@
 * [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
 * [Weather App](#)
 
-## Section 14: Currency converter challenge
+## Section 13: Currency converter challenge
 
-## Section 15: ToDo List Flutter State Management
+## Section 14: ToDo List Flutter State Management
 
 * [ToDo List](#)
 * [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
@@ -139,7 +138,7 @@
 * [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
 * [ToDo List Completed Project](https://github.com/londonappbrewery/todoey-flutter)
 
-## Section 16: Group Chat App - Flutter Firebase Cloud, Firestore, Auth
+## Section 15: Group Chat App - Flutter Firebase Cloud, Firestore, Auth
 
 * [Dart Language Keywords](https://www.dartlang.org/guides/language/language-tour#keywords)
 * [Hero Animations](https://flutter.dev/docs/development/ui/animations/hero-animations)
