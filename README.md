@@ -36,7 +36,7 @@
 
 ## Section 5: BMI Calculator - How to Build Beautiful UIs with Flutter Widgets
 
-* [Dribbble: Find Designers and Design inspiration](https://dribbble.com/](https://dribbble.com/shots/18639003-BMI-Calculator)
+* [Dribbble: Find Designers and Design inspiration](https://dribbble.com/shots/18639003-BMI-Calculator)
 * [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
