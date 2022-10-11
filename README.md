@@ -31,28 +31,11 @@
 
 * [Run app on android phone](https://developer.android.com/studio/run/device)
 
-## Section 14: ToDo List Flutter State Management
-
-* [ToDo List](#)
-* [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
-* [Dart Language Tour: Final and Const](https://www.dartlang.org/guides/language/language-tour#final-and-const)
-* [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
-* [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
-* [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
-* [WidgetBuilder function](https://api.flutter.dev/flutter/widgets/WidgetBuilder.html)
-* [The ListView Class](https://api.flutter.dev/flutter/widgets/ListView-class.html)
-* [The Icons Class](https://docs.flutter.io/flutter/material/Icons-class.html)
-* [Find Color HEX codes easily with the Colorzilla plugin](http://www.colorzilla.com/)
-* [The Color Class](https://docs.flutter.io/flutter/dart-ui/Color-class.html)
-* [How do HEX codes for with colours?](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
-* [FloatingActionButton Class](https://docs.flutter.io/flutter/material/FloatingActionButton-class.html)
-* [Material Design Icons](https://material.io/tools/icons/?style=baseline)
-* [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
-* [ToDo List Completed Project](https://github.com/londonappbrewery/todoey-flutter)
 
 ## Section 5: BMI Calculator - How to Build Beautiful UIs with Flutter Widgets
 
-* [Dribbble: Find Designers and Design inspiration]([https://dribbble.com/](https://dribbble.com/shots/18639003-BMI-Calculator))
+* [Dribbble: Find Designers and Design inspiration]([https://dribbble.com/](https://dribbble.com/shots/18639003-BMI-Calculator)
+* [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
 * [Row Documentation](https://docs.flutter.io/flutter/widgets/Row-class.html)
@@ -62,14 +45,34 @@
 * [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
 * [Navigating between Screens on Flutter](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
+* [The Icons Class](https://docs.flutter.io/flutter/material/Icons-class.html)
+* [Find Color HEX codes easily with the Colorzilla plugin](http://www.colorzilla.com/)
+* [The Color Class](https://docs.flutter.io/flutter/dart-ui/Color-class.html)
+* [How do HEX codes for with colours?](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
 * [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
 * [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
 * [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
 * [BMI Calculator Completed Project](#)
 
-## Section 6: Quiz App - Using Flutter and Dart Packages to Speed Up Development
+## Section 6: ToDo List Flutter State Management
+
+* [ToDo List](#)
+* [Dart Language Tour: Final and Const](https://www.dartlang.org/guides/language/language-tour#final-and-const)
 * [Flutter State Management at Google I/O 2019](https://youtu.be/d_m5csmrf7I)
 * [The Provider Package](https://pub.dev/packages/provider)
+* [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
+* [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
+* [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
+* [WidgetBuilder function](https://api.flutter.dev/flutter/widgets/WidgetBuilder.html)
+* [The ListView Class](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+* [FloatingActionButton Class](https://docs.flutter.io/flutter/material/FloatingActionButton-class.html)
+* [Material Design Icons](https://material.io/tools/icons/?style=baseline)
+* [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
+* [ToDo List Completed Project](https://github.com/londonappbrewery/todoey-flutter)
+
+
+## Section 7: Quiz App - Using Flutter and Dart Packages to Speed Up Development
+
 * [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
@@ -81,7 +84,7 @@
 * [Custom font using google_fonts package](https://pub.dev/packages/google_fonts)
 
 
-## Section 12: Weather App - Powering Your Flutter App with Live Weather Web Data
+## Section 8: Weather App - Powering Your Flutter App with Live Weather Web Data
  
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
 * [Starter Code Snippet for Async Await Demo](https://gist.github.com/angelabauer/c19c42b7795a185d2113f3b47263d2c0)
@@ -101,7 +104,7 @@
 * [Weather App](#)
 
 
-## Section 15: Group Chat App - Flutter Firebase Cloud, Firestore, Auth
+## Section 9: Group Chat App - Flutter Firebase Cloud, Firestore, Auth
 
 * [Dart Language Keywords](https://www.dartlang.org/guides/language/language-tour#keywords)
 * [Hero Animations](https://flutter.dev/docs/development/ui/animations/hero-animations)
