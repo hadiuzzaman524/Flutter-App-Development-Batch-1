@@ -14,7 +14,7 @@
 * [iOS Setup Instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
 
 
-## Section 3: My-Profile - How to Create Flutter Apps from Scratch
+## Section 3: MyCard - How to Create Flutter Apps from Scratch
 
 * [Material Design](https://material.io/)
 * [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
@@ -32,9 +32,8 @@
 
 
 
-## Section 5: XXXX - How to Build Beautiful UIs with Flutter Widgets
+## Section 5: BMI Calculator - How to Build Beautiful UIs with Flutter Widgets
 
-* [XXXX](#)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
 * [Column Documentation](https://docs.flutter.io/flutter/widgets/Column-class.html)
@@ -49,15 +48,23 @@
 * [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
-* [XXXX Completed Project](https://github.com/londonappbrewery/MiCard-Completed)
+* [BMI Calculator Completed Project](#)
 
-## Section 6: Music app - Using Flutter and Dart Packages to Speed Up Development
+## Section 6: Quiz App - Using Flutter and Dart Packages to Speed Up Development
 
-* [Flutter Packages](https://pub.dartlang.org/flutter)
-* [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
-* [Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
-* [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
-* [Music app Completed Project](#)
+
+## Section 14: ToDo List Flutter State Management
+
+* [ToDo List](#)
+* [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
+* [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
+* [WidgetBuilder function](https://api.flutter.dev/flutter/widgets/WidgetBuilder.html)
+* [The ListView Class](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+* [Flutter State Management at Google I/O 2019](https://youtu.be/d_m5csmrf7I)
+* [The Provider Package](https://pub.dev/packages/provider)
+* [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
+* [ToDo List Completed Project](https://github.com/londonappbrewery/todoey-flutter)
+
 
 ## Section 7: Number guessing - Building Apps with State
 
@@ -80,7 +87,6 @@
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
 * [Quize App Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
-## Section 10: Color guessing Challenge
 
 
 ## Section 11: BMI Calculator - Building Flutter UIs for Intermediates
@@ -125,19 +131,6 @@
 * [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
 * [Weather App](#)
 
-## Section 13: Currency converter challenge
-
-## Section 14: ToDo List Flutter State Management
-
-* [ToDo List](#)
-* [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
-* [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
-* [WidgetBuilder function](https://api.flutter.dev/flutter/widgets/WidgetBuilder.html)
-* [The ListView Class](https://api.flutter.dev/flutter/widgets/ListView-class.html)
-* [Flutter State Management at Google I/O 2019](https://youtu.be/d_m5csmrf7I)
-* [The Provider Package](https://pub.dev/packages/provider)
-* [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
-* [ToDo List Completed Project](https://github.com/londonappbrewery/todoey-flutter)
 
 ## Section 15: Group Chat App - Flutter Firebase Cloud, Firestore, Auth
 
