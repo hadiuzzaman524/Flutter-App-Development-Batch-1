@@ -58,7 +58,7 @@
 
 
 ## Section 6: ToDo List Flutter State Management
-
+* [Dribbble: Find Designers and Design inspiration](https://dribbble.com/shots/14153121-ToDo-App-Dark-Theme)
 * [Dart Language Tour](https://dribbble.com/shots/14153121-ToDo-App-Dark-Theme)
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
@@ -74,7 +74,7 @@
 
 
 ## Section 7: Quiz App - Using Flutter and Dart Packages to Speed Up Development
-
+* [Dribbble: Find Designers and Design inspiration](https://dribbble.com/shots/3859718-Multiple-Choice-Question-and-Answer-MCQ-iOS-App)
 * [CheckBox Documentation](#)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
@@ -84,7 +84,8 @@
 
 
 ## Section 8: Weather App - Powering Your Flutter App with Live Weather Web Data
- 
+
+* [Dribbble: Find Designers and Design inspiration]( https://dribbble.com/shots/15292603-Weather-Conceptual-App-Design)
 * [Dart Asyncronous Programming](#)
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
 * [OpenWeatherMap APIs](https://openweathermap.org/api)
